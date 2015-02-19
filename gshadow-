@@ -38,3 +38,4 @@ screen:!::
 ec2-user:!::
 stapusr:!::
 stapsys:!::
+stapdev:!::
