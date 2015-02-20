@@ -39,3 +39,4 @@ ec2-user:x:500:
 stapusr:x:156:
 stapsys:x:157:
 stapdev:x:158:
+apache:x:48:
